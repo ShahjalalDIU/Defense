@@ -1,0 +1,7 @@
+re
+streamlit
+mysql.connector
+mysql.connector
+hashlib
+pandas
+sklearn.neighbors  NearestNeighbors
